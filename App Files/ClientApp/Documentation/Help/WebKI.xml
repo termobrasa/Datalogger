@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="ClientApp namespace" Url="html/d00fa19d-353e-20a6-91ed-7f2196be9944.htm" />
+  <HelpKINode Title="ClientApp.Form1 class" Url="html/b18eb505-8caa-c305-6484-a9eac74c487e.htm" />
+  <HelpKINode Title="ClientApp.Serial_port class" Url="html/6b09e4fa-f700-6d01-3536-108e6dd821b4.htm" />
+  <HelpKINode Title="com_port field" Url="html/dc8b77b5-6df1-7ec2-1729-e90739663d48.htm" />
+  <HelpKINode Title="Dispose method">
+    <HelpKINode Title="Form1.Dispose Method " Url="html/77aeea54-f4d9-c6ff-d968-faf268a25889.htm" />
+    <HelpKINode Title="Serial_port.Dispose Method " Url="html/fdd1dd4d-5493-dadd-bf13-9b61c2b964a1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Form1 class">
+    <HelpKINode Title="Form1 Class" Url="html/b18eb505-8caa-c305-6484-a9eac74c487e.htm" />
+    <HelpKINode Title="constructor" Url="html/e1adaa89-5508-51e1-c1d6-d818ba60239f.htm" />
+    <HelpKINode Title="events" Url="html/d6b2e5b9-51b2-c455-06d7-18dacef4ba70.htm" />
+    <HelpKINode Title="methods" Url="html/3e4953fa-83aa-64ec-529c-ff3d32791c2c.htm" />
+    <HelpKINode Title="properties" Url="html/a3302022-0664-c051-52f8-c17214eb09dc.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Form1.Dispose method" Url="html/77aeea54-f4d9-c6ff-d968-faf268a25889.htm" />
+  <HelpKINode Title="Form1.Form1 constructor" Url="html/e1adaa89-5508-51e1-c1d6-d818ba60239f.htm" />
+  <HelpKINode Title="Form1.LogError method" Url="html/1d765cf9-441e-9c29-8c0c-48bda4e384b2.htm" />
+  <HelpKINode Title="LogError method" Url="html/1d765cf9-441e-9c29-8c0c-48bda4e384b2.htm" />
+  <HelpKINode Title="Serial_port class">
+    <HelpKINode Title="Serial_port Class" Url="html/6b09e4fa-f700-6d01-3536-108e6dd821b4.htm" />
+    <HelpKINode Title="constructor" Url="html/5f678e8a-ab8c-519c-6b32-624d1b63c5e5.htm" />
+    <HelpKINode Title="events" Url="html/424f064d-9cfb-1e8c-918e-e7b5eb8b3189.htm" />
+    <HelpKINode Title="fields" Url="html/e98b2b52-9ec3-7023-7026-0ee623c6399b.htm" />
+    <HelpKINode Title="methods" Url="html/a625c282-648e-ac2f-93fc-fac014165f94.htm" />
+    <HelpKINode Title="properties" Url="html/49135e7e-8dd5-691a-b63e-241e481f203f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Serial_port.com_port field" Url="html/dc8b77b5-6df1-7ec2-1729-e90739663d48.htm" />
+  <HelpKINode Title="Serial_port.Dispose method" Url="html/fdd1dd4d-5493-dadd-bf13-9b61c2b964a1.htm" />
+  <HelpKINode Title="Serial_port.Serial_port constructor" Url="html/5f678e8a-ab8c-519c-6b32-624d1b63c5e5.htm" />
+  <HelpKINode Title="version">
+    <HelpKINode Title="1.0.0.0" Url="html/49872cbc-9d58-4d8c-a8a7-314cd51321f0.htm" />
+    <HelpKINode Title="history" Url="html/9adf0034-f116-4fca-b65f-723d1edd9ef2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Welcome" Url="html/f5db6b53-6828-49d0-8bf9-5b9c9a17faff.htm" />
+</HelpKI>

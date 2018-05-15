@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ClientApp</name>
+    </assembly>
+    <members>
+        <member name="T:ClientApp.Form1">
+            <summary>
+            primeirapaina
+            </summary>
+        </member>
+        <member name="M:ClientApp.Form1.#ctor">
+            <summary>
+            Inicializa componentes
+            </summary>
+        </member>
+        <member name="M:ClientApp.Form1.Form1_Load(System.Object,System.EventArgs)">
+            <summary>
+            Inicializa componentes
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:ClientApp.Form1.stop_btn_Click(System.Object,System.EventArgs)">
+            <summary>
+            Para lista de sensores
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:ClientApp.Form1.start_btn_Click(System.Object,System.EventArgs)">
+            <summary>
+            Inicia lista de sensores
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:ClientApp.Form1.timer_lista_sensores_Tick(System.Object,System.EventArgs)">
+            <summary>
+            Pede informação dos sensores
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:ClientApp.Form1.add_btn_Click(System.Object,System.EventArgs)">
+            <summary>
+            adiciona na base de dados
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:ClientApp.Form1.Update_btn_Click(System.Object,System.EventArgs)">
+            <summary>
+            altera na base de dados
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:ClientApp.Form1.Delete_btn_Click(System.Object,System.EventArgs)">
+            <summary>
+            elimina na base de dados
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="F:ClientApp.Form1.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ClientApp.Form1.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ClientApp.Form1.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:ClientApp.Serial_port.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ClientApp.Serial_port.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ClientApp.Serial_port.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:ClientApp.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:ClientApp.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:ClientApp.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>
